@@ -1,0 +1,47 @@
+# Unity generated files
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ebugBuild/
+[Dd]ebugBuilds/
+[Dd]ist/
+[Dd]istBuild/
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Tt]emplates/
+
+# User-specific files
+.vscode/
+.idea/
+.project
+.settings/
+
+# Build results
+[Dd]ist/
+[Dd]istBuild/
+Build/
+Builds/
+
+# User-specific files
+userprefs/
+*.swp
+
+# Unity Cache
+unity_cache/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+Icon?
+._*
+
+# Crashlytics
+crashlytics-build.properties
+
+# JetBrains Rider project files
+.idea/
+
+# Visual Studio for Mac
+.vscode/
+.vsconfig
